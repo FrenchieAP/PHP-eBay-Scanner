@@ -1,0 +1,8 @@
+{
+    "require": {
+        "silex/silex": "^2.0",
+        "vlucas/phpdotenv": "^2.4",
+        "jdesrosiers/silex-cors-provider": "~1.0",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
